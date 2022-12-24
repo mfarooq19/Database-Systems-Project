@@ -1,0 +1,71 @@
+member_id,member_name,political_party_partyName,citizens_CNIC,citizens_constituency_constituencyID,national_assembly_candidates_candidate_id,senate_candidates_idsenate_candidates
+1,Javaria Noor,JI,61101109,41,1,
+2,Almed Ali,PMLN,61101110,6,2,
+3,Robia Roshan,PMLQ,61101111,16,3,
+4,Fajar Faisal,PTI,61101112,17,4,
+5,Farah Hadi,ANP,61101113,41,5,
+6,Qinzaila Khan,MQM,61101114,19,6,
+7,Saima,JUIF,61101115,39,7,
+8,Manahil Moazzam,JI,61101116,36,8,
+9,Khadeeja Naz,PMLN,61101117,29,9,
+10,Safia Ibad,PMLQ,61101118,11,10,
+11,Bakhtawar Malik,PTI,61101119,49,11,
+12,Mishal Imdad,ANP,61101120,37,12,
+13,Khola Khani,MQM,61101121,0,13,
+14,Hamna Noor,JI,61101122,7,14,
+15,Mahnoor ,PTI,61101123,16,15,
+16,Fatima Sajid,ANP,61101124,13,16,
+17,Bushra Kamran,MQM,61101125,15,17,
+18,Areesha Khan,JUIF,61101126,6,18,
+19,Mah Munir,JI,61101127,1,19,
+20,Ayesha Khan,PMLN,61101128,26,20,
+21,Zaryab Khan,PMLQ,61101129,19,21,
+22,Jalwa Khan,PTI,61101130,14,22,
+23,Fatima Abrar,ANP,61101131,25,23,
+24,Shehriyar Shahid,JI,61101132,43,24,
+25,Zari Fatima ,JUIF,61101133,31,25,
+26,Nazma Khan,JI,61101134,44,26,
+27,Shabahat Chaudhry,PMLN,61101135,33,27,
+28,Asma Saeed,PMLQ,61101136,37,28,
+29,Hamza Khan,PTI,61101137,25,29,
+30,Munza Ashfaq,ANP,61101138,24,30,
+31,Mahad Rizwan,MQM,61101139,28,31,
+32,Haya Seyed,JUIF,61101140,30,32,
+33,Areeba Tahir,JI,61101141,8,33,
+34,Rohail Ilyas,PTI,61101142,46,34,
+35,Mahin Shoeb,ANP,61101143,48,35,
+36,Sheikh Abdullah,PTI,61101144,11,36,
+37,Sheikh Abdul Rahman,JUIF,61101145,18,37,
+38,Rashid Ilyas,JI,61101146,39,38,
+39,Harris Rashid,PMLN,61101147,3,39,
+40,Maria Rehman,PMLQ,61101148,50,40,
+41,Bushra Ajmal,PTI,61101079,9,,1
+42,Zia Ur Rehman,ANP,61101080,35,,2
+43,Atif Hayat,MQM,61101081,8,,3
+44,Alishba Hameed,JUIF,61101082,6,,4
+45,Saad Iqbal,JI,61101083,38,,5
+46,Munazima Zeb,PTI,61101084,18,,6
+47,Anfaal Abdullah,ANP,61101085,16,,7
+48,Alishba Umer,PTI,61101086,40,,8
+49,Laila Haider,JUIF,61101087,25,,9
+50,Izhar Muhammad Shah,PTI,61101088,12,,10
+51,Malaika Ejaz,ANP,61101089,25,,11
+52,Ume habiba,MQM,61101090,14,,12
+53,Seyeda Tamkeen Zahra,JUIF,61101091,10,,13
+54,Umair Ahmed,JI,61101092,30,,14
+55,Amna Tasneem,PTI,61101093,8,,15
+56,Mansoor Ahmed,ANP,61101094,4,,16
+57,Touba Azeem,PTI,61101095,5,,17
+58,Arooba Khitab,JUIF,61101096,24,,18
+59,Muhammad Tayyab Malik,PTI,61101097,44,,19
+60,Muhammad Muneeb,ANP,61101098,24,,20
+61,Habiba Bibi,MQM,61101099,6,,21
+62,Faiza Khattak,JUIF,61101100,43,,22
+63,Muneeza Rizwan,JI,61101101,20,,23
+64,Nehal Taj,PTI,61101102,11,,24
+65,Saba Israr,ANP,61101103,49,,25
+66,Malaika Batool,PTI,61101104,28,,26
+67,Ahmed Khan,JUIF,61101105,0,,27
+68,Sadat Ali,PTI,61101106,20,,28
+69,Farishta Khan,ANP,61101107,38,,29
+70,Laiba Azam,ANP,61101108,17,,30
